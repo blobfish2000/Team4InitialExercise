@@ -17,6 +17,7 @@ public class Main {
     System.out.println("Tia");
     System.out.println("Suela");
     System.out.println("Branch - Cole");
+    System.out.println("Branch - Curtis");
     System.out.println("Branch - Jonathan");
     System.out.println("Shannen");
     System.out.println("Nigel");
