@@ -12,5 +12,7 @@ public class Main {
     System.out.println("Team Member Names Below:");
     System.out.println("Liam");
     System.out.println("Curtis");
+    System.out.println("Cole");
+    System.out.println("Jonathan");
   }
 }
