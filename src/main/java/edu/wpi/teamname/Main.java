@@ -11,8 +11,11 @@ public class Main {
      */
     System.out.println("Team Member Names Below:");
     System.out.println("Liam");
+    System.out.println("Curtis");
     System.out.println("Cole");
     System.out.println("Jonathan");
     System.out.println("Tia");
+    System.out.println("Branch - Cole");
+    System.out.println("Branch - Jonathan");
   }
 }
